@@ -10,7 +10,7 @@ LANDING_DESCRIPTION = "首頁副標題"
 LANDING_PAGE = "home"
 PYTHON_VERSION = "3.8"
 # 你的Github儲存庫
-REPO_URL = "https://github.com/kimx/NetlifyObsidianLab"
+REPO_URL = "https://github.com/Lance-World/Obsidian-Study/tree/main"
 SITE_TITLE = "網站標題"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = "Kimxinfo"
