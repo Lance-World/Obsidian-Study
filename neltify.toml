@@ -15,7 +15,7 @@ SITE_TITLE = "網站標題"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = "Kimxinfo"
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://kimxinfo-netlifyobsidianlab.netlify.app/"
+SITE_URL = "https://sensational-kheer-debb78.netlify.app"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
